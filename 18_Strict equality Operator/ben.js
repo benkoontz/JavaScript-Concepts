@@ -6,5 +6,5 @@ function booleans(a,b) {
     }
     return "not equal"
 }
-console.log(booleans(10,"10")) // prints not equals
+console.log(booleans(10,"10")) // prints not equal
 console.log(booleans(10,10)) // prints equal

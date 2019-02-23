@@ -3,8 +3,8 @@
 function multiply(arr) {
     var product = 1;
     
-    for(var i = 0; i < arr.length; i++) {
-        for(var j = 0; j < arr[i].length; j++) {
+    for(var i = 0; i < arr.length; i++) { // gets a length of 3
+        for(var j = 0; j < arr[i].length; j++) { // gets the length for each sub array
             product *= arr[i][j];
         }
     }

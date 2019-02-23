@@ -1,4 +1,4 @@
-// while loop, iterate through an array
+// for loop, iterate through an array
 
 var array = [9, 10, 11, 12];
 var total = 0;

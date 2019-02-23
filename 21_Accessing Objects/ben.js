@@ -1,7 +1,7 @@
 // accessing objects
 
 var dog = {
-    "name": "ben",
+    "name": "ben", // name is a property and ben is a value
     "legs": 4,
     "tails": 1,
     "friends": ["everything"],

@@ -12,4 +12,4 @@ function getTemp(avgTemp) {
     return tempOfTomorrrow
 }
 
-console.log(getTemp(temp))
+console.log(getTemp(temp)) // outputs 79
